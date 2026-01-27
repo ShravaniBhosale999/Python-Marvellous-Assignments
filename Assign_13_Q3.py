@@ -1,3 +1,4 @@
+#Python program to check whether a number is a perfect number or not
 num = int(input("Enter number: "))
 sum = 0
 
@@ -9,3 +10,4 @@ if sum == num:
     print("Perfect Number")
 else:
     print("Not Perfect Number")
+
